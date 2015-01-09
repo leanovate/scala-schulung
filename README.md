@@ -1,0 +1,2 @@
+# scala-schulung
+Scala Schulung
